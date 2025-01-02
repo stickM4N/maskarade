@@ -1,3 +1,4 @@
+from .connector import Event, EventChannel, ModelConnector
 from .log import ModelLogger
 
 
